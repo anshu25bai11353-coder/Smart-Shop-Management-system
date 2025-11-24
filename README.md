@@ -104,10 +104,9 @@ To thoroughly test the system, follow the steps below in your terminal session:
 7.  **Review the Bill:** Verify that the **18% GST** and **10% Discount** calculations are correct on the final bill.
 8.  **Review the Sales Report:** Ensure only the successful transactions for "Pen" and "Notebook" are logged.
 
+<img width="623" height="573" alt="Screenshot 2025-11-23 at 8 14 10 PM" src="https://github.com/user-attachments/assets/d4a807f8-dca4-4d34-a0b7-f18baa9098c2" />
 
-<img width="623" height="573" alt="Screenshot 2025-11-23 at 8 14 10 PM" src="https://github.com/user-attachments/assets/0ad0c261-caf6-4275-800e-d13b95f66574" />
-
-<img width="626" height="579" alt="Screenshot 2025-11-23 at 8 14 37 PM" src="https://github.com/user-attachments/assets/4c7835a5-7f85-4838-a277-b7c3c3e6e829" />
+<img width="626" height="579" alt="Screenshot 2025-11-23 at 8 14 37 PM" src="https://github.com/user-attachments/assets/90c42751-3dd8-4a3b-8160-433c73f30af7" />
 
 
-<img width="842" height="614" alt="Screenshot 2025-11-23 at 8 18 21 PM" src="https://github.com/user-attachments/assets/dc9964d8-ff77-4760-a885-377361dbf09b" />
+<img width="842" height="614" alt="Screenshot 2025-11-23 at 8 18 21 PM" src="https://github.com/user-attachments/assets/091529a0-d242-4d53-85f1-ef39bcecff3e" />
